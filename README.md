@@ -8,7 +8,7 @@
 
 `SEMESTRE: 1º`
 
-O aplicativo MyChefe oferece aos usuários a conveniência de contratar outras pessoas para cozinhar refeições personalizadas em sua própria casa. Com uma variedade de opções, desde marmitas saudáveis até banquetes elbaorados, o MyChef cria uma experiência gastrônomica única e facilitada. Os usuários podem explorar perfis de chefes, escolher seus menus preferidos, agendar atendimento e até mesmo personalizar suas refeições. Uma solução inovadora que une desde talentosos chefes até entusiastas da culinária, tornando a cozinha em casa uma prática simples e deliciosa.
+O aplicativo MyChefe oferece aos usuários a conveniência de contratar outras pessoas para cozinhar refeições personalizadas em sua própria casa. Com uma variedade de opções, desde marmitas saudáveis até banquetes elaborados, o MyChef cria uma experiência gastrônomica única e facilitada. Os usuários podem explorar perfis de chefes, escolher seus menus preferidos, agendar atendimento e até mesmo personalizar suas refeições. Uma solução inovadora que une desde talentosos chefes até entusiastas da culinária, tornando a cozinha em casa uma prática simples e deliciosa.
 
 ## Integrantes
 
