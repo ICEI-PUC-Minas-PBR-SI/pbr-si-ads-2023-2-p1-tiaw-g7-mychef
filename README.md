@@ -4,7 +4,7 @@
 
 `CURSOS: Sistemas de Informação e Análise e Desenvolvimento de Sistemas`
 
-`DISCIPLINA: Projeto - Aplicações Web`
+`DISCIPLINA: Trabalho Interdisciplinar: Aplicações Web`
 
 `SEMESTRE: 1º`
 
