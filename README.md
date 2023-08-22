@@ -14,10 +14,10 @@ O aplicativo MyChefe oferece aos usuários a conveniência de contratar outras p
 
 * Nome completo do aluno 1
 * Nome completo do aluno 2
-* Nome completo do aluno 3
+* Laura Santiago Novais - SI
 * Lucas Eduardo Pereira de Paula - ADS
 * Nome completo do aluno 5
-* Robson Bicalho da Silva Filho
+* Robson Bicalho da Silva Filho - SI
 * Nome completo do aluno 7
 
 ## Orientador
