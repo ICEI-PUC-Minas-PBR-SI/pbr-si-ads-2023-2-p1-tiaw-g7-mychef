@@ -15,7 +15,7 @@ O aplicativo MyChefe oferece aos usuários a conveniência de contratar outras p
 * Nome completo do aluno 1
 * Nome completo do aluno 2
 * Nome completo do aluno 3
-* Nome completo do aluno 4
+* Lucas Eduardo Pereira de Paula - ADS
 * Nome completo do aluno 5
 * Robson Bicalho da Silva Filho
 * Nome completo do aluno 7
