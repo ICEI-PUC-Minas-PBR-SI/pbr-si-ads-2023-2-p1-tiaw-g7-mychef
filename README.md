@@ -13,10 +13,10 @@ O aplicativo MyChefe oferece aos usuários a conveniência de contratar outras p
 ## Integrantes
 
 * Arthur Monteiro Parreiras - SI
+* Gabriel Parreiras do Carmo - ADS
 * Isabella Oliveira Cunha - SI
 * Laura Santiago Novais - SI
 * Lucas Eduardo Pereira de Paula - ADS
-* Nome completo do aluno 5
 * Robson Bicalho da Silva Filho - SI
 * Rodrigo Caçuci Parreiras de Miranda - SI
 
