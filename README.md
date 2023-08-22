@@ -22,7 +22,7 @@ O aplicativo MyChefe oferece aos usuários a conveniência de contratar outras p
 
 ## Orientador
 
-* Fábio Leandro Rodrigues Codeiro
+* Fábio Leandro Rodrigues Cordeiro
 * Franciele Parreiras
 * Shirley Luana Ramos de Assis
 
