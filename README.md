@@ -8,7 +8,7 @@
 
 `SEMESTRE: 1º`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+O aplicativo MyChefe oferece aos usuários a conveniência de contratar outras pessoas para cozinhar refeições personalizadas em sua própria casa. Com uma variedade de opções, desde marmitas saudáveis até banquetes elbaorados, o MyChef cria uma experiência gastrônomica única e facilitada. Os usuários podem explorar perfis de chefes, escolher seus menus preferidos, agendar atendimento e até mesmo personalizar suas refeições. Uma solução inovadora que une desde talentosos chefes até entusiastas da culinária, tornando a cozinha em casa uma prática simples e deliciosa.
 
 ## Integrantes
 
@@ -17,10 +17,14 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 * Nome completo do aluno 3
 * Nome completo do aluno 4
 * Nome completo do aluno 5
+* Robson Bicalho da Silva Filho
+* Nome completo do aluno 7
 
 ## Orientador
 
-* Nome completo do professor 1
+* Fábio Leandro Rodrigues Codeiro
+* Francielle Parreiras
+* Shirley Luana Ramos de Assis
 
 # Planejamento
 
