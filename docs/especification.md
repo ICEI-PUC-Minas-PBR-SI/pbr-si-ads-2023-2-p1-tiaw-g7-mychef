@@ -55,15 +55,15 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 ### Requisitos não Funcionais
 
-|ID     | Descrição do Requisito  |Prioridade |
-|-------|-------------------------|----|
-|RNF-001| A plataforma deve garantir que os dados pessoais, de pagamento e outros dados sensíveis sejam armazenados e transmitidos de forma segura, utilizando criptografia AES-256 bits para proteção. | ALTA  | 
-|RNF-002| A plataforma deve oferecer uma experiência fluida e responsiva, mesmo em momentos de alta demanda, para evitar atrasos no agendamento e na exploração de perfis.                              | MÉDIA | 
-|RNF-003| A plataforma deve ser compatível com uma variedade de navegadores web, incluindo Google Chrome, Mozilla Firefox, Microsoft Edge e Safari.                                                     | ALTA  | 
-|RNF-004| A plataforma deve minimizar interrupções e falhas, garantindo que os serviços de agendamento e pagamento estejam sempre disponíveis e funcionais.                                             | ALTA  | 
-|RNF-005| A plataforma deve possuir uma interface de usuário intuitiva e fácil de navegar, com uma paleta de cores agradável e menus de fácil acesso, garantindo a satisfação dos usuários.             | ALTA  | 
-|RNF-006| A plataforma deve possuir uma arquitetura escalável que possa lidar com o crescimento do número de usuários e chefs sem comprometer o desempenho.                                             | MÉDIA | 
-|RNF-007| A plataforma deve integrar um sistema de pagamento seguro que permita aos usuários pagar pelos serviços dos chefs de forma conveniente e segura.                                              | ALTA  | 
+|ID     | Descrição do Requisito                                                                                                                                                                        |Prioridade |
+|-------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------|
+|RNF-001| A plataforma deve garantir que os dados pessoais, de pagamento e outros dados sensíveis sejam armazenados e transmitidos de forma segura, utilizando criptografia AES-256 bits para proteção. | ALTA      | 
+|RNF-002| A plataforma deve oferecer uma experiência fluida e responsiva, mesmo em momentos de alta demanda, para evitar atrasos no agendamento e na exploração de perfis.                              | MÉDIA     | 
+|RNF-003| A plataforma deve ser compatível com uma variedade de navegadores web, incluindo Google Chrome, Mozilla Firefox, Microsoft Edge e Safari.                                                     | ALTA      | 
+|RNF-004| A plataforma deve minimizar interrupções e falhas, garantindo que os serviços de agendamento e pagamento estejam sempre disponíveis e funcionais.                                             | ALTA      | 
+|RNF-005| A plataforma deve possuir uma interface de usuário intuitiva e fácil de navegar, com uma paleta de cores agradável e menus de fácil acesso, garantindo a satisfação dos usuários.             | ALTA      | 
+|RNF-006| A plataforma deve possuir uma arquitetura escalável que possa lidar com o crescimento do número de usuários e chefs sem comprometer o desempenho.                                             | MÉDIA     | 
+|RNF-007| A plataforma deve integrar um sistema de pagamento seguro que permita aos usuários pagar pelos serviços dos chefs de forma conveniente e segura.                                              | ALTA      | 
                                                                                                                                      
 
 ## Restrições
