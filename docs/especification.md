@@ -6,11 +6,17 @@
 ## Personas
 
 Persona 1: Livia Santos tem 35 anos, é uma advogada com a carreira consolidada, é casada há dois anos e adora comemorar seus aniversários. Ela tem o costume de realizar jantares em casa entretanto sempre teve dificuldades de encontrar cozinheiros particulares que atendessem a domicílio. 
+
 Persona 2: João Paulo tem 28 anos, é casado e tem uma filha, adora esportes e é formado em gastronomia e nutrição há 5 anos. Ele trabalha na área de consultas e tratamentos individuais para pessoas que desejam ter uma vida mais saudável. Está em busca de clientes para montar marmitas especializadas e instruir como prosseguir com um cotidiano de forma benéfica e sadia. 
+
 Persona 3: Luiza tem 24 anos, mora sozinha, é solteira e é professora. Ela adora cozinhar, principalmente para casais e faz isso há 5 anos, mesmo não tendo muita experiência e não trabalhando nessa área, tem bastante determinação. Está buscando oportunidades para exercer esse hobbie e ganhar um dinheiro extra para sustentar sua família. 
+
 Persona 4: Flora tem 40 anos, é atleta há 20 anos e mora com seu marido e seu filho, ela tem intolerância à glúten e lactose. Devido às suas restrições alimentares e sua vida agitada, precisa de um profissional que forneça instruções e marmitas específicas para facilitar o seu cotidiano e manutenção de uma vida saudável.
+
 Persona 5: José Borges tem 55 anos, é solteiro, adora esportes e tem três filhos. Ele trabalha na área da culinária há 30 anos e é especialista em churrasco. José atualmente vem enfrentando problemas para exercer sua profissão devido a baixa demanda, por isso, está buscando uma forma alternativa de divulgar os seus serviços.
+
 Persona 6: Sofia Souza tem 32 anos, trabalha como gerente de marketing em uma empresa de tecnologia e mora em um apartamento na área urbana. Devido ao seu estilo de vida agitado, Sofia muitas vezes não tem tempo para cozinhar. Ela busca uma solução que lhe permita desfrutar de refeições personalizadas sem o trabalho de cozinhar.
+
 Persona 7: Lucas tem 28 anos, é um entusiasta da culinária e trabalha como designer gráfico freelancer. Ele vive em uma casa nos arredores da cidade. Lucas adora cozinhar, mas às vezes deseja relaxar enquanto alguém mais prepara uma refeição especial para ele e seus amigos. Ele busca variedade e adoraria explorar diferentes estilos de culinária sem sair de casa.
 
 ## Histórias de Usuários
