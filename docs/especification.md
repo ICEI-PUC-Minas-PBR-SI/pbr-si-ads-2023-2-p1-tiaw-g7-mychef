@@ -45,7 +45,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito                                                                                                                                               | Prioridade | Responsável        |
 |------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------| -------------------|
-|RF-001| Como usúario gostaria de poder me cadastrar e criar um perfil, bem como apresentar minhashabilidades e experiências culinárias, caso necessári                       | ALTA       |                    |
+|RF-001| Como usúario gostaria de poder me cadastrar e criar um perfil, bem como apresentar minhas habilidades e experiências culinárias, caso necessário.                    | ALTA       |                    |
 |RF-002| Como usuário, desejo explorar perfis de chefs, pesquisar, filtrar e visualizar com base em critérios como especialidade, avaliações e localização.                   | ALTA       |                    |
 |RF-003| Como usuário, quero escolher entre uma variedade de menus e pratos oferecidos pelos chefs, incluindo opções para diferentes refeições e estilos de cozinha.          | ALTA       |                    |
 |RF-004| Como usuário, desejo agendar datas e horários para que os chefs cozinhem em minha casa, com a opção de selecionar pratos específicos a serem preparados.             | ALTA       |                    |
