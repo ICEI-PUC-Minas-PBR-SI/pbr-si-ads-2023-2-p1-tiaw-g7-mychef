@@ -6,6 +6,7 @@ Nosso projeto de interface e voltado principalmente para as principais coisas qu
 ## User Flow
 
 Segue um link do figma mostrando o user flow e o wireframes https://www.figma.com/file/vlgmulyMNdTzmYPMH8KSf7/Untitled?type=design&node-id=0%3A1&mode=design&t=iCHC4iv8A6VxP0p8-1
+
 Para o user flow seguimos uma ideia para deixa-lo mais simples e intuitivo para que todas as pessoas o usem sem problema 
 
 ### ideia do wireframe
