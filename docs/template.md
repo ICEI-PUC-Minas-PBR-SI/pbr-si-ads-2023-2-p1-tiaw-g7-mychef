@@ -1,36 +1,25 @@
 # Template padrão do site
 
-Layout padrão do site (HTML e CSS) que será utilizado em todas as páginas com a definição de identidade visual, aspectos de responsividade e iconografia.
+Segue o template inicial do site com a nossa ideia base, cliamos um template mais simples para não deixare a tela muito poluida.
 
-Explique as guias de estilo utilizadas no seu projeto.
+[trabalho interdiciplinar.zip](https://github.com/ICEI-PUC-Minas-PBR-SI/pbr-si-ads-2023-2-p1-tiaw-g7-mychef/files/12842067/trabalho.interdiciplinar.zip)
 
 ## Design
 
-Detalhe os layouts que serão utilizados. Apresente onde será colocado o logo do sistema. Defina os menus padrões, entre outras coisas.
-
+O nosso layout na parte superior tera a logo, uma parte para seleção de categora, uma parte para falar sobre nos, uma parte com nossos contatos e o perfil da pessoa, já nno rodapé focamos em nos divulgar e falar ajudar as pessoas a localizar partes do site. A nossa logo ficara no canto esquedo superior, e temos tanto esse padrão de cor como este padrão de designe para manter o site consistente e bem bonito. 
 
 ## Cores
 
-Apresente a paleta de cores que será utilizada. Uma ferramenta interessante para a criação de palestas de cores é o *Adobe Color* ([https://color.adobe.com/pt/create/color-wheel](https://color.adobe.com/pt/create/color-wheel)).
+Para as cores resolvemos usar como principalmente o laranja e branco por serem cores que relembram muito a cozinha 
 
 
 ## Tipografia
 
-Apresente as fontes que serão utilizadas e sua função no site. As principais funções são: Título de página, Título de Seção, Rótulos de componentes e Corpo de Texto.
+Título de página: Georgia
+Título de Seção: Times New Roman
+Corpo de Texto: serif
 
 
 ## Iconografia
 
-Defina os ícones que serão utilizados e suas respectivas funções.
-
-Apresente os estilos CSS criados para cada um dos elementos apresentados.
-Outras seções podem ser adicionadas neste documento para apresentar padrões de componentes, de menus, etc.
-
-
-> **Links Úteis**:
->
-> -  [Como criar um guia de estilo de design da Web](https://edrodrigues.com.br/blog/como-criar-um-guia-de-estilo-de-design-da-web/#)
-> - [CSS Website Layout (W3Schools)](https://www.w3schools.com/css/css_website_layout.asp)
-> - [Website Page Layouts](http://www.cellbiol.com/bioinformatics_web_development/chapter-3-your-first-web-page-learning-html-and-css/website-page-layouts/)
-> - [Perfect Liquid Layout](https://matthewjamestaylor.com/perfect-liquid-layouts)
-> - [How and Why Icons Improve Your Web Design](https://usabilla.com/blog/how-and-why-icons-improve-you-web-design/)
+Nos utilizaremos uma logo com o chapeu de cozinheiro e uma escrita embaixo com coloraçoes branco e laranja. Também usaremos logo de aplicativos de comunicação para divugar outras plataformas em que estamos situados. 
