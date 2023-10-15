@@ -8,7 +8,7 @@ O nosso layout na parte superior tera a logo, uma parte para seleção de catego
 
 ## Cores
 
-Para as cores nós usamos 2 principalmente o vermelho por conta que é uma cor que as pessoas memorização de uma maneira fácil, é uma cor que que da uma sensação de urgência em quem esta consumindo, e o público-alvo são os consumidores de fast-food. Já o laranja usamos e realmente nossa cor pincipal já que ela demostra um clima agradável e alegre, álem dela despertar um lado compulsivo dos clientes e ela estimula o apetite nas pessoas. E e claro o braco como fundo principal do site e o do rodapé
+Para as cores nós usamos 2 principalmente o vermelho por conta que é uma cor que as pessoas memorização de uma maneira fácil, é uma cor que que da uma sensação de urgência em quem esta consumindo, e o público-alvo são os consumidores de fast-food. Já o laranja usamos e realmente nossa cor pincipal já que ela demostra um clima agradável e alegre, álem dela despertar um lado compulsivo dos clientes e ela estimula o apetite nas pessoas. E e claro o branco como fundo principal do site e o do rodapé
 
 
 ## Tipografia
