@@ -1,8 +1,6 @@
 # Template padrão do site
 
-Segue o template inicial do site com a nossa ideia base, cliamos um template mais simples para não deixare a tela muito poluida.
-
-[trabalho interdiciplinar.zip](https://github.com/ICEI-PUC-Minas-PBR-SI/pbr-si-ads-2023-2-p1-tiaw-g7-mychef/files/12842067/trabalho.interdiciplinar.zip)
+No proprio git hub e possivel encontrar nossa template base, fizemos ele pensando em ser usado em quase todas as paginas do site assim tendo uma otima base para a criação do nosso site 
 
 ## Design
 
