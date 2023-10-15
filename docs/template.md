@@ -22,4 +22,4 @@ Corpo de Texto: serif
 
 ## Iconografia
 
-Nos utilizaremos uma logo com o chapeu de cozinheiro e uma escrita embaixo com coloraçoes branco e laranja. Também usaremos logo de aplicativos de comunicação para divugar outras plataformas em que estamos situados. 
+Os ícones que nos vamos utilizar é o ícone de uma pessoa sem rosto para as pessoas que vão fazer o login quando elas já tem cadastro no site na parte do email, já na parte da senha vai ser um cadeado, para demonstrar proteção e segurança para quem usa. Para quem vai cadastrar no site tem dois ícones o de um chefe, para quem vai cadastrar como cozinheiro no site, já outro o ícone seria uma pessoa normal, caso ela deseja ser um cliente do nosso site e o nosso ícone principal que sera usado em todas as páginas e a logo.
