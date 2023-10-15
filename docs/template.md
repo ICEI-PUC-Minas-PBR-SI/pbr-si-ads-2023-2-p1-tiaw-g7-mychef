@@ -6,18 +6,18 @@ Segue o template inicial do site com a nossa ideia base, cliamos um template mai
 
 ## Design
 
-O nosso layout na parte superior tera a logo, uma parte para seleção de categora, uma parte para falar sobre nos, uma parte com nossos contatos e o perfil da pessoa, já nno rodapé focamos em nos divulgar e falar ajudar as pessoas a localizar partes do site. A nossa logo ficara no canto esquedo superior, e temos tanto esse padrão de cor como este padrão de designe para manter o site consistente e bem bonito. 
+O nosso layout na parte superior tera a logo, uma parte para seleção de categora, uma parte para falar sobre nós, uma parte com nossos contatos e o perfil da pessoa, já no rodapé focamos em nos divulgar e falar ajudar as pessoas a localizar partes do site. A nossa logo ficara no canto esquedo superior, e temos tanto esse padrão de cor como este padrão de designe para manter o site consistente e bem bonito. 
 
 ## Cores
 
-Para as cores resolvemos usar como principalmente o laranja e branco por serem cores que relembram muito a cozinha 
+Para as cores nós usamos 2 principalmente o vermelho por conta que é uma cor que as pessoas memorização de uma maneira fácil, é uma cor que que da uma sensação de urgência em quem esta consumindo, e o público-alvo são os consumidores de fast-food. Já o laranja usamos e realmente nossa cor pincipal já que ela demostra um clima agradável e alegre, álem dela despertar um lado compulsivo dos clientes e ela estimula o apetite nas pessoas. E e claro o braco como fundo principal do site e o do rodapé
 
 
 ## Tipografia
 
-Título de página: Georgia
-Título de Seção: Times New Roman
-Corpo de Texto: serif
+Título de página: Garamond 
+Título de Seção: serif
+Corpo de Texto: Times New Roman
 
 
 ## Iconografia
