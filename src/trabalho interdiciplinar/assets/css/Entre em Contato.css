@@ -1,0 +1,35 @@
+header {
+    background-color: #FA7300;
+}
+
+header a, form {
+    margin-left: 10px;
+}
+
+header img {
+    width: 80px;
+}
+
+footer {
+    background-color: gray;
+}
+
+footer .destaque {
+    text-decoration: none;
+    color: white;
+}
+
+#logo {
+    width: 100px;
+}
+
+.card {
+    background-color: gray;
+    width: 100%;
+    height: 10%;
+    margin: 5px;
+}
+
+h1{
+    text-align: center;
+}
