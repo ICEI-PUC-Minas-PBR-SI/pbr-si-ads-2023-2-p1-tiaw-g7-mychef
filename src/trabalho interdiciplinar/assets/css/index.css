@@ -1,0 +1,37 @@
+header {
+    background-color: #FA7300;
+}
+
+header a, form {
+    margin-left: 10px;
+}
+
+header img {
+    width: 80px;
+}
+
+footer {
+    background-color: gray;
+    bottom: 0%;
+    width: 100%;
+}
+
+footer .destaque {
+    text-decoration: none;
+    color: white;
+}
+
+#logo {
+    width: 100px;
+}
+
+.carousel {
+    max-height: 900px;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+.subtitulos{
+    margin-left: 60px;
+}
+
