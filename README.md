@@ -17,7 +17,6 @@ O aplicativo MyChefe oferece aos usuários a conveniência de contratar outras p
 * Isabella Oliveira Cunha - SI
 * Laura Santiago Novais - SI
 * Lucas Eduardo Pereira de Paula - ADS
-* Robson Bicalho da Silva Filho - SI
 * Rodrigo Caçuci Parreiras de Miranda - SI
 
 ## Orientador
@@ -25,6 +24,7 @@ O aplicativo MyChefe oferece aos usuários a conveniência de contratar outras p
 * Fábio Leandro Rodrigues Cordeiro
 * Franciele Parreiras
 * Shirley Luana Ramos de Assis
+* Clóvis Lemos Tavares
 
 # Planejamento
 
