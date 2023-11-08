@@ -1,0 +1,63 @@
+header {
+    background-color: #FA7300;
+}
+
+header a, form {
+    margin-left: 10px;
+}
+
+header img {
+    width: 80px;
+}
+
+footer {
+    background-color: gray;
+}
+
+footer .destaque {
+    text-decoration: none;
+    color: white;
+}
+
+#logo {
+    width: 100px;
+}
+
+#descricao {
+    margin-left: 100px;
+}
+
+header a {
+    text-decoration: none;
+    color: black;
+}
+
+.fchef {
+    width: 550px;
+    margin-top: 100px;
+    margin-bottom: 50px;
+}
+
+.texto {
+    margin-top: 50px;
+}
+
+.calendario {
+    width: 450px;
+}
+
+main h3 {
+    font-weight: bold;
+}
+
+main h5 {
+    font-size:medium;
+}
+
+.check {
+    margin-left: 20px;
+}
+
+.ti {
+    
+}
