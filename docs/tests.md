@@ -50,10 +50,10 @@ Esta seção deve apresentar o relatório com as evidências dos testes de softw
 |Requisito Associado | RF-007- O usuário tem uma plataforma de comunicação direta com os chefs, discute detalhes dos serviços e obtem esclarecimentos para as dúvidas.|
 |Link do vídeo do teste realizado: | [https://1drv.ms/u/s!AhD2JqpOUvJChapRtRSQ9vPzbNLwGA?e=mxZs6t](https://drive.google.com/file/d/1v42UKSBGFIJD_KscQBOCIAk0-p2n1mS_/view?usp=sharing)| 
 
-|*Caso de Teste*                                 |*TC-02 - Efetuar Login (usuário autenticado)*                                         |
+|*Caso de Teste*                                 |*TC-02 - Teste do funcionamento do calendário*                                         |
 |---|---|
 |Requisito Associado | RF-004 - Usuários não autenticados podem se cadastrar para criar uma conta e serem autenticados.|
-|Link do vídeo do teste realizado: | https://1drv.ms/v/s!AhD2JqpOUvJChapQ8CPXL-TI_A7iVg?e=spD3Ar | 
+|Link do vídeo do teste realizado: | https://drive.google.com/file/d/1v7jx_LuNH7oYswnjGx9fQhuMUdbThMg4/edit | 
 
 
 ## Avaliação dos Testes de Software
