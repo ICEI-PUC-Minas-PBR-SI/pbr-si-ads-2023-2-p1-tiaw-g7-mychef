@@ -140,10 +140,8 @@
                       </div>
                       <script>
                         function sendMessage() {
-                          // Obtém o valor da mensagem digitada pelo usuário
                           var userMessage = document.getElementById('textAreaExample').value;
                       
-                          // Adiciona a mensagem do usuário acima da caixa de texto
                           var chatBody = document.getElementById('chat1').getElementsByClassName('card-body')[0];
                           chatBody.innerHTML =
                             '<div class="d-flex flex-row justify-content-start mb-4">' +
@@ -154,7 +152,6 @@
                             '</div>' +
                             chatBody.innerHTML;
                       
-                          // Limpa o campo de entrada após o envio da mensagem
                           document.getElementById('textAreaExample').value = '';
                         }
                       </script>
