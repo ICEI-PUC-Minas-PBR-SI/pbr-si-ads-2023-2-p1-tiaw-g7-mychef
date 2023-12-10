@@ -41,6 +41,22 @@ Preencha a tabela com o plano dos testes. Para cada Caso de Teste (CT), associe 
 **Dados de entrada** | Data e evento.
 **Resultado obtido** | Sucesso.
 
+**Caso de Teste** | **CT03 - Teste de criação de conta de chef**
+ :--------------: | ------------
+**Procedimento**  | 1) criar conta de chef.
+**Requisitos associados** | RF-001
+**Resultado esperado** | Criar conta.
+**Dados de entrada** | dados.
+**Resultado obtido** | Sucesso.
+
+**Caso de Teste** | **CT04 - Teste de criação de conta de usuário**
+ :--------------: | ------------
+**Procedimento**  | 1) criar conta de usuário.
+**Requisitos associados** | RF-001
+**Resultado esperado** | Criar conta.
+**Dados de entrada** | dados.
+**Resultado obtido** | Sucesso.
+
 ## Registro dos Testes de Software
 
 Esta seção deve apresentar o relatório com as evidências dos testes de software realizados no sistema pela equipe, baseado no plano de testes pré-definido. Documente cada caso de teste apresentando um vídeo ou animação que comprove o funcionamento da funcionalidade. Veja os exemplos a seguir.
@@ -52,8 +68,18 @@ Esta seção deve apresentar o relatório com as evidências dos testes de softw
 
 |*Caso de Teste*                                 |*TC-02 - Teste do funcionamento do calendário*                                         |
 |---|---|
-|Requisito Associado | RF-004 - Adição de nosvas datas no calendário|
+|Requisito Associado | RF-004 - Adição de novas datas no calendário|
 |Link do vídeo do teste realizado: | https://drive.google.com/file/d/1v7jx_LuNH7oYswnjGx9fQhuMUdbThMg4/edit | 
+
+|*Caso de Teste*                                 |*TC-03 - Teste de criação de conta de chef*                                         |
+|---|---|
+|Requisito Associado | RF-001 - Criar conta|
+|Link do vídeo do teste realizado: | https://drive.google.com/file/d/1GRtJozi2aMQE4kZHmia7Lf3Sr4D4EFDo/edit | 
+
+|*Caso de Teste*                                 |*TC-04 - Teste de criação de conta de usuário*                                         |
+|---|---|
+|Requisito Associado | RF-001 - Criar conta|
+|Link do vídeo do teste realizado: | https://drive.google.com/file/d/1QlZ-XBjeFgdMUy6EltBeMWzUMdOgRHOH/edit | 
 
 
 ## Avaliação dos Testes de Software
