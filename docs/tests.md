@@ -57,6 +57,32 @@ Preencha a tabela com o plano dos testes. Para cada Caso de Teste (CT), associe 
 **Dados de entrada** | dados.
 **Resultado obtido** | Sucesso.
 
+**Caso de Teste** | **CT05 - *escolher entre uma variedade de cardapios e tipos*
+ :--------------: | ------------
+**Procedimento**  | 1)Teste de usabilidade testando parte dos site .
+**Requisitos associados** | RF-003/RF-005
+**Resultado esperado** | Cosegui locomover sem o uso da rolagem so com a ferramenta auxiliar.
+**Dados de entrada** | não precisa.
+**Resultado obtido** | Sucesso.
+
+**Caso de Teste** | **CT06 - *Avalaiçao de perfil*
+ :--------------: | ------------
+**Procedimento**  | 1)preencher as caixas de informação e envia a avaliação  .
+**Requisitos associados** | RF-006
+**Resultado esperado** | avaliar a pessoa.
+**Dados de entrada** | dados.
+**Resultado obtido** | Sucesso.
+
+**Caso de Teste** | **CT07 - *Explorar perfils*
+ :--------------: | ------------
+**Procedimento**  | 1) Mexer no site e olhar os perfils das pessoas.
+**Requisitos associados** | RF-002
+**Resultado esperado** | locomoção tranquila e sem bug.
+**Dados de entrada** | não precisa.
+**Resultado obtido** | Sucesso.
+
+
+
 ## Registro dos Testes de Software
 
 Esta seção deve apresentar o relatório com as evidências dos testes de software realizados no sistema pela equipe, baseado no plano de testes pré-definido. Documente cada caso de teste apresentando um vídeo ou animação que comprove o funcionamento da funcionalidade. Veja os exemplos a seguir.
@@ -71,7 +97,7 @@ Esta seção deve apresentar o relatório com as evidências dos testes de softw
 |Requisito Associado | RF-004 - Adição de novas datas no calendário|
 |Link do vídeo do teste realizado: | https://drive.google.com/file/d/1v7jx_LuNH7oYswnjGx9fQhuMUdbThMg4/edit | 
 
-|*Caso de Teste*                                 |*TC-03 - Teste de criação de conta de chef*                                         |
+|*Caso de Teste*                                 |*TC-03 - Teste de criação de conta de chef*                                            |
 |---|---|
 |Requisito Associado | RF-001 - Criar conta|
 |Link do vídeo do teste realizado: | https://drive.google.com/file/d/1GRtJozi2aMQE4kZHmia7Lf3Sr4D4EFDo/edit | 
@@ -81,16 +107,27 @@ Esta seção deve apresentar o relatório com as evidências dos testes de softw
 |Requisito Associado | RF-001 - Criar conta|
 |Link do vídeo do teste realizado: | https://drive.google.com/file/d/1QlZ-XBjeFgdMUy6EltBeMWzUMdOgRHOH/edit | 
 
+|*Caso de Teste*                                 |*TC-05 - * escolher entre uma variedade de cardapios e tipos*                            |
+|---|---|
+|Requisito Associado | RF-003/RF-005 - escolher entre uma variedade de cardapios e tipos |
+|Link do vídeo do teste realizado: |  | 
+
+|*Caso de Teste*                                 |*TC-06 - * Avalaiçao de perfil*                                                         |
+|---|---|
+|Requisito Associado | RF-006 - Avalaiçao de perfil |
+|Link do vídeo do teste realizado: |  | 
+
+|*Caso de Teste*                                 |*TC-07 - * Explorar perfils*                                                            |
+|---|---|
+|Requisito Associado | RF-002 - Explorar perfils|
+|Link do vídeo do teste realizado: |  | 
+
 
 ## Avaliação dos Testes de Software
 
 Discorra sobre os resultados do teste. Ressaltando pontos fortes e fracos identificados na solução. Comente como o grupo pretende atacar esses pontos nas próximas iterações. Apresente as falhas detectadas e as melhorias geradas a partir dos resultados obtidos nos testes.
 
-
-
-## Testes de unidade automatizados (Opcional)
-
-Se o grupo tiver interesse em se aprofundar no desenvolvimento de testes de software, ele podera desenvolver testes automatizados de software que verificam o funcionamento das funções JavaScript desenvolvidas. Para conhecer sobre testes unitários em JavaScript, leia 0 documento  [Ferramentas de Teste para Java Script](https://geekflare.com/javascript-unit-testing/).
+As principais falhas indentificadas foi o mal uso do banco de dados.
 
 
 # Testes de Usabilidade
@@ -105,20 +142,14 @@ Taxa de sucesso: responde se o usuário conseguiu ou não executar a tarefa prop
 
 Satisfação subjetiva: responde como o usuário avalia o sistema com relação à execução da tarefa proposta, conforme a seguinte escala:
 
-1. Péssimo; 
-2. Ruim; 
 3. Regular; 
-4. Bom; 
-5. Ótimo.
 
-Tempo para conclusão da tarefa: em segundos, e em comparação com o tempo utilizado quando um especialista (um desenvolvedor) realiza a mesma tarefa.
+
 
 Objetivando respeitar as diretrizes da Lei Geral de Proteção de Dados, as informações pessoais dos usuários que participaram do teste não foram coletadas, tendo em vista a ausência de Termo de Consentimento Livre e Esclarecido.
 
 
 Apresente os cenários de testes utilizados na realização dos testes de usabilidade da sua aplicação. Escolha cenários de testes que demonstrem as principais histórias de usuário sendo realizadas. Neste tópico o grupo deve detalhar quais funcionalidades avaliadas, o grupo de usuários que foi escolhido para participar do teste e as ferramentas utilizadas.
-
-> - [UX Tools](https://uxdesign.cc/ux-user-research-and-user-testing-tools-2d339d379dc7)
 
 
 ## Cenários de Teste de Usabilidade
