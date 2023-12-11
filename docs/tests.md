@@ -110,7 +110,7 @@ Esta seção deve apresentar o relatório com as evidências dos testes de softw
 |*Caso de Teste*                                 |*TC-05 - * escolher entre uma variedade de cardapios e tipos*                            |
 |---|---|
 |Requisito Associado | RF-003/RF-005 - escolher entre uma variedade de cardapios e tipos |
-|Link do vídeo do teste realizado: |  | 
+|Link do vídeo do teste realizado: | https://drive.google.com/file/d/1Z249Q8e6WsAyWTeOgDiNBp1OKXpJ9AX_/edit | 
 
 |*Caso de Teste*                                 |*TC-06 - * Avalaiçao de perfil*                                                         |
 |---|---|
@@ -120,7 +120,7 @@ Esta seção deve apresentar o relatório com as evidências dos testes de softw
 |*Caso de Teste*                                 |*TC-07 - * Explorar perfils*                                                            |
 |---|---|
 |Requisito Associado | RF-002 - Explorar perfils|
-|Link do vídeo do teste realizado: |  | 
+|Link do vídeo do teste realizado: | https://drive.google.com/file/d/1tEBsPZtflO8Y7q8GZToKvMDmhr65sAWL/edit | 
 
 
 ## Avaliação dos Testes de Software
