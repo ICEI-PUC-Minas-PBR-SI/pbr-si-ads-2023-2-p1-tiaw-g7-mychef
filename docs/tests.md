@@ -115,7 +115,7 @@ Esta seção deve apresentar o relatório com as evidências dos testes de softw
 |*Caso de Teste*                                 |*TC-06 - * Avalaiçao de perfil*                                                         |
 |---|---|
 |Requisito Associado | RF-006 - Avalaiçao de perfil |
-|Link do vídeo do teste realizado: |  | 
+|Link do vídeo do teste realizado: | https://drive.google.com/file/d/126c8eRryoy5TfZdjxXiDViRWzFj4F2Qj/edit | 
 
 |*Caso de Teste*                                 |*TC-07 - * Explorar perfils*                                                            |
 |---|---|
