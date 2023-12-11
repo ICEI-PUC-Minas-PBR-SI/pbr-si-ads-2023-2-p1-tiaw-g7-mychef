@@ -1,0 +1,45 @@
+header {
+    background-color: #FA7300;
+}
+
+header a, form {
+    margin-left: 10px;
+}
+
+header img {
+    width: 80px;
+}
+
+footer {
+    background-color: gray;
+    bottom: 0%;
+    width: 100%;
+}
+
+footer .destaque {
+    text-decoration: none;
+    color: white;
+}
+
+#logo {
+    width: 100px;
+}
+
+
+
+#chat3 .form-control {
+    border-color: transparent;
+    }
+    
+    #chat3 .form-control:focus {
+    border-color: transparent;
+    box-shadow: inset 0px 0px 0px 1px transparent;
+    }
+    
+    .badge-dot {
+    border-radius: 50%;
+    height: 10px;
+    width: 10px;
+    margin-left: 2.9rem;
+    margin-top: -.75rem;
+    }
