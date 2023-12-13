@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fullcalendar/3.10.2/fullcalendar.min.css" />
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.29.1/moment.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fullcalendar/3.10.2/fullcalendar.min.js"></script>
+
+    <title>Calendário com localStorage</title>
+</head>
+
+<body>
+
+    <h2>Calendário</h2>
+
+    <div>
+        <label for="dateInput">Data:</label>
+        <input type="date" id="dateInput">
+        <label for="eventInput">Evento:</label>
+        <input type="text" id="eventInput">
+        <button onclick="adicionarEvento()">Adicionar Evento</button>
+    </div>
+
+    <div id="calendario"></div>
+
+    <script>
+        // Carregar eventos do localStorage ao inicializar
+        $(document).ready(function () {
+            exibirEventos();
+        });
+
+        // Função para adicionar um novo evento
+        function adicionarEvento() {
+            var dataEvento = $('#dateInput').val();
+            var evento = $('#eventInput').val();
+
+            if (dataEvento.trim() !== '' && evento.trim() !== '') {
+                var novoEvento = { data: dataEvento, evento: evento };
+
+                // Obter eventos existentes do localStorage
+                var eventosExist = JSON.parse(localStorage.getItem('eventos')) || [];
+                eventosExist.push(novoEvento);
+
+                // Salvar eventos atualizados no localStorage
+                localStorage.setItem('eventos', JSON.stringify(eventosExist));
+
+                // Limpar campos de entrada
+                $('#dateInput').val('');
+                $('#eventInput').val('');
+
+                // Atualizar a exibição do calendário
+                exibirEventos();
+            }
+        }
+
+        // Função para exibir os eventos no calendário
+        function exibirEventos() {
+            // Obter eventos do localStorage
+            var eventosExist = JSON.parse(localStorage.getItem('eventos')) || [];
+
+            // Mapear eventos para o formato esperado pelo FullCalendar
+            var eventosFormatados = eventosExist.map(function (evento) {
+                return {
+                    title: evento.evento,
+                    start: evento.data
+                };
+            });
+
+            // Inicializar o FullCalendar
+            $('#calendario').fullCalendar('destroy');
+            $('#calendario').fullCalendar({
+                header: {
+                    left: 'prev,next today',
+                    center: 'title',
+                    right: 'month,agendaWeek,agendaDay'
+                },
+                events: eventosFormatados,
+                eventClick: function (event) {
+                    // Implementar a lógica para manipular eventos ao clicar
+                    console.log('Evento clicado:', event);
+                }
+            });
+        }
+    </script>
+
+</body>
+
+</html>
